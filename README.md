@@ -2,9 +2,9 @@
 
 An end-to-end analysis of employee attrition: data cleaning in Python, exploratory analysis to find what drives people to leave, and an interactive Power BI dashboard that turns the findings into KPIs HR can act on.
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview]()https://drive.google.com/file/d/12Uw2jlrnMipjJYxOUL4FmP80dRETnOoD/view?usp=sharing
 
-**[View the live dashboard](ADD-YOUR-POWER-BI-LINK-HERE)**
+**[View the live dashboard](https://drive.google.com/file/d/1dUyHpfht3SMWSHUSzAqcKNrLc8so2988/view?usp=drive_link)**
 
 ---
 
