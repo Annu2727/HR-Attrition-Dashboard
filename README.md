@@ -4,7 +4,6 @@ An end-to-end analysis of employee attrition: data cleaning in Python, explorato
 
 ![Dashboard preview]()https://drive.google.com/file/d/12Uw2jlrnMipjJYxOUL4FmP80dRETnOoD/view?usp=sharing
 
-**[View the live dashboard](https://drive.google.com/file/d/1dUyHpfht3SMWSHUSzAqcKNrLc8so2988/view?usp=drive_link)**
 
 ---
 
